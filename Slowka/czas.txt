@@ -1,0 +1,132 @@
+1,abide,abode,abode,mieszkac; znosic; przestrzegac (czegos)
+2,arise,arose,arisen,powstac
+3,awake,awoke,awoke; awakened,przebudzic sie; budzic
+4,be,was; were,been,byc
+5,bear,bore,born,niesc; ponosic; znosic
+6,beat,beat,beaten,bic
+7,become,became,become,stawac sie
+8,befall,befell,befallen,trafic sie
+9,beget,begot,begot; begotten,poczac
+10,begin,began,begun,zaczynac (sie)
+11,behold,beheld,beheld,patrzec
+12,bend,bent,bent,zginac
+13,bereave,bereft,bereft,pozbawiac
+14,beseech,beseeched; besought,beseeched; besought,blagac
+15,bet,bet,bet,zakladac sie
+16,bestride,bestrode,bestridden,dosiasc
+17,betake,betook,betaken,udac sie
+18,bid,bid,bid,licytowac
+19,bind,bound,bound,wiazac
+20,bite,bit,bitten,gryźc
+21,bleed,bled,bled,krwawic
+22,blow,blew,blown,dmuchac
+23,break,broke,broken,lamac; rozbic
+24,breed,bred,bred,hodowac
+25,bring,brought,brought,przynosic
+26,broadcast,broadcast,broadcast,transmitowac
+27,build,built,built,budowac
+28,burn,burnt/burned,burnt/burned,palic (sie)
+29,burst,burst,burst,pekac
+30,buy,bought,bought,kupowac
+31,can,could,-,moc; potrafic
+32,cast,cast,cast,rzucac
+33,catch,caught,caught,lapac
+34,chide,chid,chid/chidden,strofowac
+35,choose,chose,chosen,wybierac
+36,cleave,cleft/clove,cleft/cloven,rozlupywac
+37,cling,clung,clung,lgnac
+38,clothe,clad/clothen,clad/chothen,ubierac
+39,come,came,come,przychodzic; przybywac
+40,cost,cost,cost,kosztowac
+41,creep,crept,crept,pelzac
+42,crow,crew/crowed,crowed,krakac
+43,cut,cut,cut,ciac
+44,do,did,done,robic
+45,draw,drew,drawn,rysowac
+46,dream,dreamt/dreamed,dreamt/dreamed,snic; marzyc
+47,drink,drank,drunk,pic
+48,drive,drove,driven,jechac; prowadzic samochod
+49,dwell,dwelt,dwelt,mieszkac (nie w mowionym)
+50,eat,ate,eaten,jesc
+51,fall,fell,fallen,upadac
+52,feed,fed,fed,karmic
+53,feel,felt,felt,czuc
+54,fight,fought,fought,walczyc
+55,find,found,found,znaleźc
+56,forgive,forgave,forgiven,przebaczac
+57,fly,flew,flown,latac
+58,forget,forgot,forgotten,zapominac
+59,freeze,froze,frozen,zamrazac
+60,get,got,got,dostawac
+61,give,gave,given,dawac
+62,go,went,gone,isc
+63,grow,grew,grown,rosnac
+64,hang,hung,hung,wieszac
+65,have,had,had,miec
+66,hear,heard,heard,slyszec
+67,hide,hid,hidden,ukrywac sie
+68,hit,hit,hit,uderzac
+69,hold,held,held,trzymac
+70,hurt,hurt,hurt,ranic
+71,keep,kept,kept,trzymac
+72,know,knew,known,wiedziec; znac
+73,lay,laid,laid,klasc
+74,lead,led,led,prowadzic
+75,learn,learnt,learnt,uczyc sie
+76,leave,left,left,opuszczac; wyjezdzac
+77,lend,lent,lent,pozyczyc
+78,let,let,let,pozwolic
+79,lie,lay,lain,lezec
+80,lie,lied,lied,klamac
+81,light,lit,lit,zapalac
+82,lose,lost,lost,gubic; zgubic
+83,make,made,made,robic
+84,mean,meant,meant,znaczyc; miec na mysli
+85,meet,met,met,spotykac; poznawac
+86,pay,paid,paid,placic
+87,put,put,put,klasc; polozyc
+88,read,read,read,czytac
+89,ride,rode,ridden,jeździc
+90,ring,rang,rung,dzwonic
+91,rise,rose,risen,podnosic sie
+92,run,ran,run,biec
+93,say,said,said,mowic; powiedziec
+94,see,saw,seen,widziec; zobaczyc
+95,sell,sold,sold,sprzedac
+96,send,sent,sent,wysylac
+97,set,set,set,umieszczac; zachodzic (cos)
+98,shake,shook,shaken,potrzasnac
+99,shine,shone,shone,swiecic
+100,shoot,shot,shot,strzelac
+101,show,showed,shown,pokazac
+102,shut,shut,shut,zamykac
+103,sing,sang,sung,spiewac
+104,sink,sank,sunk,tonac
+105,sit,sat,sat,siedziec
+106,sleep,slept,slept,spac
+107,smell,smelt/smelled,smelt/smelled,wachac
+108,speak,spoke,spoken,mowic
+109,speed,sped,sped,mknac
+110,spell,spelt/spelled,spelt/spelled,literowac
+111,spend,spent,spent,spedzac; wydawac
+112,spill,spilt,spilt,rozlewac
+113,split,split,split,rozdzielac
+114,spoil,spoilt/spoiled,spoilt/spoiled,psuc
+115,stand,stood,stood,stac
+116,steal,stole,stolen,krasc
+117,stick,stuck,stuck,utkwic
+118,strike,struck,struck,strajkowac
+119,sweep,swept,swept,zamiatac
+120,swim,swam,swum,plywac
+121,take,took,taken,brac
+122,teach,taught,taught,uczyc
+123,tear,tore,torn,rwac
+124,tell,told,told,powiedziec
+125,think,thought,thought,sadzic; myslec
+126,throw,threw,thrown,rzucac
+127,understand,understood,understood,rozumiec
+128,wake up,woke up,woken up,budzic sie
+129,wear,wore,worn,nosic
+130,weep,wept,wept,plakac
+131,win,won,won,wygrywac
+132,write,wrote,written,pisac
