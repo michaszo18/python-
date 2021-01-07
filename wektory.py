@@ -7,7 +7,7 @@ c = [1, 3, 0]
 
 def iloczyn_skalarny(a, b):
     wynik = 0
-    for i in range(3):
+    for i in range(len(a)):
         wynik += a[i] * b[i]
     return wynik
 
@@ -26,14 +26,14 @@ def kat_pmiedzy_wektorami(a, b):
 
 
 def suma_wektorow(a, b):
-    wynik = [0,0,0]
+    wynik = [0, 0, 0]
     for i in range(len(a)):
         wynik[i] = a[i] + b[i]
     return wynik
 
 
 def roznica_wektorow(a, b):
-    wynik = [0,0,0]
+    wynik = [0, 0, 0]
     for i in range(len(a)):
         wynik[i] = a[i] - b[i]
     return wynik
