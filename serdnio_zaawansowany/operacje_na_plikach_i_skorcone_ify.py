@@ -87,6 +87,7 @@ print("\n\n###################\n\n")
 
 colors = ["red", "orange", "green", "violet", "blue", "yellow"]
 
+
 def get_colors_palette(list, number):
     return list[:number]
 
@@ -94,5 +95,5 @@ def get_colors_palette(list, number):
 colors2 = get_colors_palette(colors, 3)
 print(colors, colors2, colors is colors2)
 
-for i in range(1,len(colors)+1):
+for i in range(1, len(colors) + 1):
     print(get_colors_palette(colors, i))
